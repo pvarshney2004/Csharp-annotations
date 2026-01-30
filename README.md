@@ -4,7 +4,7 @@ It focuses on how attributes are defined, applied, and accessed using **Reflecti
 
 ---
 
-## 🌿 Branch: annotations
+## 🔹 `annotations` branch
 
 This branch covers:
 - Built-in attributes like `override` and `Obsolete`
